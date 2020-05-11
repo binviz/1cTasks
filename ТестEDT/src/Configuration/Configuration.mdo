@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="48604009-e6c5-44d0-a151-d126892311cf">
+  <name>ТестEDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест EDT</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="a337557e-d696-4da4-b85c-2ec65d4e33a2"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="2d6ededd-19f2-46b4-847d-4d1576cb4ccf"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="7ed15299-867f-495a-9db1-4e9b1f40961e"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="78d20145-218a-476e-af9e-9e56f4c3a9ee"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="afa9c1b7-c01d-4538-953b-6cf7a8a6a45c"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="56672117-d79f-49f3-8d06-8fd73d2f3fec"/>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.14</compatibilityMode>
+  <languages uuid="e64d0450-77a2-44b2-8234-e5639097d02a">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Товары</catalogs>
+</mdclass:Configuration>
